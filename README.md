@@ -1,0 +1,3 @@
+- 🏴 Hi, I'm larissa
+- 🌊 I'm interested in programming
+- ☀️ I'm currently learning about the github course
